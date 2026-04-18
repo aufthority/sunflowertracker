@@ -1,0 +1,15 @@
+{
+  "name": "Bloom — Habit Garden",
+  "short_name": "Bloom",
+  "description": "Grow your habits. Watch your sunflower bloom.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5EFE4",
+  "theme_color": "#3B6B1A",
+  "icons": [
+    { "src": "images/stage5.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "images/stage5.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ],
+  "categories": ["health", "lifestyle", "productivity"]
+}
